@@ -1,11 +1,11 @@
-# 💈 Barbearia Lobo
+# RT Serviços e Apoio
 
-Starter para o projeto **💈 Barbearia Lobo** — Curso de Web Design Híbrido · Vocação (Módulos 13–15).
+Starter para o projeto **RT Serviços e Apoio ** — Curso de Web Design Híbrido · Vocação (Módulos 13–15).
 
 ## 📁 Estrutura
 
 ```
-barbearia/
+RT Serviços/
 ├── index.html        ← página principal (HTML semântico + ARIA)
 ├── css/
 │   └── style.css     ← design system com tokens (CSS Variables)
