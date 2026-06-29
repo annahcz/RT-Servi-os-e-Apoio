@@ -271,15 +271,19 @@ body {
   line-height: 1.6;
 }
 
-.specialties-list {
+.especialidades-card {
+  background: linear-gradient(145deg, #0f1e3f 0%, #081327 100%);
+}
+
+.especialidades-list {
   margin: 0;
   padding-left: 1.1rem;
   display: grid;
   gap: 0.45rem;
-  color: var(--cor-fundo);
+  color: #f5f5f5;
 }
 
-.specialties-list li {
+.especialidades-list li {
   line-height: 1.5;
 }
 
